@@ -1,6 +1,7 @@
 # fnp-sales-analysis_
 
 🌸 Ferns and Petals Sales Analysis
+<img width="1861" height="827" alt="sales analysis fnp" src="https://github.com/user-attachments/assets/33df8793-f7c5-4cc6-8df7-9f7f64db7db5" />
 📌 Problem Statement
 
 Ferns and Petals (FNP) is a company specializing in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The goal of this project is to analyze FNP’s sales dataset to uncover key insights related to:
@@ -76,6 +77,7 @@ Personalize product recommendations for occasions.
 Optimize inventory for high-demand products.
 
 Enhance customer satisfaction and loyalty.
+
 
 
 <img width="1861" height="827" alt="sales analysis fnp" src="https://github.com/user-attachments/assets/33df8793-f7c5-4cc6-8df7-9f7f64db7db5" />
